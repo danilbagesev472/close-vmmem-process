@@ -27,5 +27,5 @@
    close-vmmem.bat
    ```
    ```bash
-    sh close-vmmem.sh
+   sh close-vmmem.sh
    ```
